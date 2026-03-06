@@ -1,4 +1,4 @@
-# Claude Plugin for Feishu
+# Code Plugin for Feishu
 
 将 Claude Code/Codex CLI 与飞书（Lark）打通的集成服务，让你可以直接在飞书群聊或私聊中向 Claude/Codex 发送开发任务并获取执行结果。
 
