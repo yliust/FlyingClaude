@@ -6,7 +6,7 @@ invokes Codex CLI to execute them,
 and sends execution logs back to Feishu.
 
 Usage:
-    uv run python codex-feishu-server.py [--work-dir /path/to/project] [--codex-bin /path/to/codex] [--session-store /path/to/session-store.json]
+    python codex-feishu-server.py [--work-dir /path/to/project] [--codex-bin /path/to/codex] [--session-store /path/to/session-store.json]
 """
 
 import argparse
