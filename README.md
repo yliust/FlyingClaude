@@ -42,5 +42,5 @@ python claude-feishu-service.py --work-dir /path/to/your/project
 
 ### 使用效果
 
-<img src="assets/img1.png" alt="Claude Feishu 插件效果演示" width="600" />
-<img src="assets/img2.png" alt="Claude Feishu 插件效果演示" width="600" />
+<img src="assets/img1.png" alt="输入需求" width="600" />
+<img src="assets/img2.png" alt="结果展示" width="600" />
