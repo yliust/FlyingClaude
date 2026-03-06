@@ -52,4 +52,4 @@ python codex-feishu-service.py --work-dir /path/to/your/project
 
 
 ### Codex单项目连续对话效果
-<img src="assets/4.png" alt="Codex单项目连续对话效果" width="600" />
+<img src="assets/img4.png" alt="Codex单项目连续对话效果" width="600" />
