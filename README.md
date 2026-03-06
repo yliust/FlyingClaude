@@ -44,3 +44,6 @@ python claude-feishu-service.py --work-dir /path/to/your/project
 
 <img src="assets/img1.png" alt="输入需求" width="600" />
 <img src="assets/img2.png" alt="结果展示" width="600" />
+
+### 成品效果
+<img src="assets/img3.png" alt="网页展示" width="600" />
