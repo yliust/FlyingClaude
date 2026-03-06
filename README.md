@@ -49,3 +49,7 @@ python codex-feishu-service.py --work-dir /path/to/your/project
 
 ### 成品效果
 <img src="assets/img3.png" alt="网页展示" width="600" />
+
+
+### Codex单项目连续对话效果
+<img src="assets/4.png" alt="Codex单项目连续对话效果" width="600" />
